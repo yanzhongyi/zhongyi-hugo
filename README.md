@@ -1,4 +1,5 @@
 
 
-git submodule add https://github.com/olOwOlo/hugo-theme-even.git themes/even
+# 言中医/yanzhongyi.com
 
+中医学习和入门
